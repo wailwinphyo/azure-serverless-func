@@ -1,1 +1,1 @@
-"# Azure Serverless func " 
+# Azure Serverless function
